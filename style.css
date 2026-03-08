@@ -105,7 +105,7 @@ opacity:0;
 
 .swipe-text{
 
-margin-top:100px;
+margin-top:90px;
 
 font-size:13px;
 
@@ -141,4 +141,5 @@ opacity:0;
 .slide-right{
 transform:translateX(120px);
 opacity:0;
+
 }
